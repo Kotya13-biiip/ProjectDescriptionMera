@@ -11,9 +11,7 @@
     "url": "https://github.com/Kotya13-biiip/ProjectDescriptionMera.git"
   },
   "dependencies": {
-    "coffeeconverseai": "1.0.0",
-    "chatbrew": "1.0.0",
-    "chainchatvv": "1.0.0"
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
