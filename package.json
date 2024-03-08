@@ -1,0 +1,24 @@
+{
+  "name": "projectdescriptionmera",
+  "version": "1.0.0",
+  "description": "This project is a web-based application that helps users learn new languages through daily exercises and interactive lessons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kotya13-biiip/ProjectDescriptionMera.git"
+  },
+  "dependencies": {
+    "coffeeconverseai": "1.0.0",
+    "chatbrew": "1.0.0",
+    "chainchatvv": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kotya13-biiip/ProjectDescriptionMera/issues"
+  },
+  "homepage": "https://github.com/Kotya13-biiip/ProjectDescriptionMera#readme"
+}
